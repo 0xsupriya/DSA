@@ -9,7 +9,7 @@ public class Main {
             char ch = name.charAt(i);
 
             if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
-                System.out.println(name.charAt(i));
+                System.out.print(name.charAt(i));
             }
         }
     }

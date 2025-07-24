@@ -9,7 +9,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter table of a number: ");
+        System.out.print("Enter table of a number: ");
         int n = scanner.nextInt();
 
         for (int i = 1; i <= 10; i++) {

@@ -6,30 +6,30 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter Day no. :");
+        System.out.print("Enter Day no. :");
         int day = scanner.nextInt();
 
         switch (day) {
             case 1:
-                System.out.println("Monday");
+                System.out.print("Monday");
                 break;
             case 2:
-                System.out.println("Tuesday");
+                System.out.print("Tuesday");
                 break;
             case 3:
-                System.out.println("Wednesday");
+                System.out.print("Wednesday");
                 break;
             case 4:
-                System.out.println("thrusday");
+                System.out.print("thrusday");
                 break;
             case 5:
-                System.out.println("Friday");
+                System.out.print("Friday");
                 break;
             case 6:
-                System.out.println("Saturday");
+                System.out.print("Saturday");
                 break;
             case 7:
-                System.out.println("sunday");
+                System.out.print("sunday");
                 break;
             default:
                 System.out.println("Invalid Day");

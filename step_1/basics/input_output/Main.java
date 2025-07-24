@@ -5,7 +5,7 @@ import java.util.Scanner;
 class Main {
     public static void printNumber() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a Number: ");
+        System.out.print("Enter a Number: ");
         int number = scanner.nextInt();
         System.out.print(number);
         scanner.close();

@@ -12,7 +12,7 @@ public class Main {
         int number = scanner.nextInt();
         int square = number * number;
         scanner.close();
-        System.out.println("Square of " + number + " is: " + square);
+        System.out.print("Square of " + number + " is: " + square);
 
     }
 

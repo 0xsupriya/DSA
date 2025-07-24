@@ -7,19 +7,19 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter your marks: ");
+        System.out.print("Enter your marks: ");
         int marks = scanner.nextInt();
 
         if (marks >= 90) {
-            System.out.println("Grade A");
+            System.out.print("Grade A");
         } else if (marks >= 70) {
-            System.out.println("Grade B");
+            System.out.print("Grade B");
         } else if (marks >= 50) {
-            System.out.println("Grade C");
+            System.out.print("Grade C");
         } else if (marks >= 35) {
-            System.out.println("Grade D");
+            System.out.print("Grade D");
         } else {
-            System.out.println("Fail");
+            System.out.print("Fail");
         }
         scanner.close();
     }
