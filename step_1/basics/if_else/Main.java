@@ -1,4 +1,4 @@
-package step_1.if_else;
+package step_1.basics.if_else;
 
 import java.util.Scanner;
 

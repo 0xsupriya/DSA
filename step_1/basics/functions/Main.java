@@ -1,6 +1,6 @@
 //Create a function that takes a number and returns its square.
 
-package step_1.functions;
+package step_1.basics.functions;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Write a Java program to find the elements in the array are even numbers.
 
-package step_1.arrays;
+package step_1.basics.arrays;
 
 public class Main {
     public static void main(String[] args) {

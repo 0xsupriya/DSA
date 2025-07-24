@@ -1,4 +1,4 @@
-package step_1.input_output;
+package step_1.basics.input_output;
 
 import java.util.Scanner;
 

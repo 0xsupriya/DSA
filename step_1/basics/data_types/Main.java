@@ -1,4 +1,4 @@
-package step_1.data_types;
+package step_1.basics.data_types;
 
 import java.util.Scanner;
 

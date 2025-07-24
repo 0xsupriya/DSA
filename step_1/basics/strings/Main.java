@@ -1,6 +1,6 @@
 // Write a Java program to find the vowels in a given string.
 
-package step_1.strings;
+package step_1.basics.strings;
 
 public class Main {
     public static void main(String[] args) {

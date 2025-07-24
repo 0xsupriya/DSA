@@ -1,4 +1,4 @@
-package step_1.switch_case;
+package step_1.basics.switch_case;
 
 import java.util.Scanner;
 

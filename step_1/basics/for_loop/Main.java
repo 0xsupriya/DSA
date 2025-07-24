@@ -1,6 +1,6 @@
 //Take a integer as an input and print the multiplication table of that number using a for loop.
 
-package step_1.for_loop;
+package step_1.basics.for_loop;
 
 import java.util.Scanner;
 
