@@ -9,6 +9,6 @@ public class Main {
         } catch (Exception e) {
             System.out.println("exception is: " + e);
         }
-        System.out.print("Bye World");
+        System.out.println("Bye World");
     }
 }
