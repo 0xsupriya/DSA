@@ -1,3 +1,5 @@
+// throws = I might throw an exception, please be prepared!
+
 package step_1.collections.exception_handling.throws_keyword;
 
 public class Main {

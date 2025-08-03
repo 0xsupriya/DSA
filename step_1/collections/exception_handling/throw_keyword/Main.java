@@ -1,3 +1,5 @@
+// throw = I am throwing the exception now!
+
 package step_1.collections.exception_handling.throw_keyword;
 
 public class Main {
