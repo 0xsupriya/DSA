@@ -12,7 +12,7 @@ public class Main {
         try {
             checkAge(16);
         } catch (MyException e) {
-            System.out.println("caught " + e);
+            System.out.println("Error: " + e.getMessage());
         }
     }
 }
