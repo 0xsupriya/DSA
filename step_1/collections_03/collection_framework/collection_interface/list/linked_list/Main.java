@@ -1,4 +1,4 @@
-package step_1.collections_03.collection_framework.list.linked_list;
+package step_1.collections_03.collection_framework.collection_interface.list.linked_list;
 
 import java.util.*;
 

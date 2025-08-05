@@ -1,4 +1,4 @@
-package step_1.collections_03.collection_framework.list.array_list;
+package step_1.collections_03.collection_framework.collection_interface.list.array_list;
 
 import java.util.List;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package step_1.collections_03.collection_framework.list.list_sorting;
+package step_1.collections_03.collection_framework.collection_interface.list.list_sorting;
 
 import java.util.*;
 

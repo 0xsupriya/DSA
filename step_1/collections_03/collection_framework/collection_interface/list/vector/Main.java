@@ -1,4 +1,4 @@
-package step_1.collections_03.collection_framework.list.vector;
+package step_1.collections_03.collection_framework.collection_interface.list.vector;
 
 import java.util.*;
 
