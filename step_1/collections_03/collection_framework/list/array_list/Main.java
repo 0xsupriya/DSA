@@ -11,6 +11,12 @@ public class Main {
         arrayList.add("Supriya");
         arrayList.add("Arijit");
 
-        System.out.print(arrayList);
+        System.out.println(arrayList);
+
+        System.out.println(arrayList.get(0));
+        System.out.println(arrayList.contains("supriya"));
+
+        arrayList.remove(0);
+        System.out.println(arrayList);
     }
 }
