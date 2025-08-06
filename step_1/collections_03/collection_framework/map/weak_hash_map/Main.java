@@ -17,10 +17,11 @@ public class Main {
         key1 = null; // Eligible for GC
         System.gc();
 
-        try { Thread.sleep(1000); } catch (InterruptedException e) {}
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+        }
 
         System.out.println("After GC: " + map);
     }
-}{
-
 }
