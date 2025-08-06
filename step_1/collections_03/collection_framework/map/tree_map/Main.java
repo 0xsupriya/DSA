@@ -1,4 +1,4 @@
-package step_1.collections_03.collection_framework.map.tree;
+package step_1.collections_03.collection_framework.map.tree_map;
 
 import java.util.Map;
 import java.util.TreeMap;
