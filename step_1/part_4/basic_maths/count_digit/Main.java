@@ -1,4 +1,4 @@
-package step_1.part_4.basic_maths;
+package step_1.part_4.basic_maths.count_digit;
 
 import java.util.Scanner;
 
