@@ -7,15 +7,12 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a Number: ");
         int n = scanner.nextInt();
-
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= i; j++) {
-                System.out.print("*");
+        for (int i = 1; i <= 2 * n - 1; i++) {
+            int stars = i;
+            if (i > n) {
+                stars = 2 * n - i;
             }
-            System.out.println();
-        }
-        for (int i = 1; i <= n; i++) {
-            for (int j = i; j < n; j++) {
+            for (int j = 1; j <= stars; j++) {
                 System.out.print("*");
             }
             System.out.println();
