@@ -7,15 +7,14 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a Number: ");
         int n = scanner.nextInt();
-        number(n);
+        System.out.println("sum is: " + sum(n));
         scanner.close();
     }
 
-    public static void number(int n) {
-        int sum = 0;
-        for (int j = 1; j <= n; j++) {
-            sum += j;
-        }
-        System.out.println(sum);
+    public static int sum(int n) {
+        if (n == 0)
+            return 0;
+        else
+            return n + sum(n - 1);
     }
 }
