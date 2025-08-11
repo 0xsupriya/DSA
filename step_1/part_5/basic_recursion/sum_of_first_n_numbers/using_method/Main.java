@@ -1,4 +1,4 @@
-package step_1.part_5.basic_recursion.sum_of_first_n_numbers;
+package step_1.part_5.basic_recursion.sum_of_first_n_numbers.using_method;
 
 import java.util.Scanner;
 
