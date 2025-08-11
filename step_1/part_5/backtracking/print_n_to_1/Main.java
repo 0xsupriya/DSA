@@ -1,4 +1,4 @@
-package step_1.part_5.backtracking.print_1_to_n;
+package step_1.part_5.backtracking.print_n_to_1;
 
 import java.util.Scanner;
 
