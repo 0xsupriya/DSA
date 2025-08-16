@@ -1,4 +1,4 @@
-package step_1.part_6.hashing;
+package step_1.part_6.hashing.number_hashing;
 
 import java.util.Scanner;
 
