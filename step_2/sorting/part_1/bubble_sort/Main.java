@@ -1,4 +1,4 @@
-package step_2.sorting.bubble_sort;
+package step_2.sorting.part_1.bubble_sort;
 
 public class Main {
     public static void main(String[] args) {
