@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int[] array = { 13, 46, 24, 52, 20, 9 };
         int n = array.length;
-        for (int i = n - 1; i >= 0; i--) {
+        for (int i = n - 1; i >= 1; i--) {
             for (int j = 0; j <= i - 1; j++) {
                 if (array[j] > array[j + 1]) {
                     int temp = array[j];
