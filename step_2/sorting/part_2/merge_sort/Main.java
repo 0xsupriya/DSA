@@ -51,7 +51,7 @@ class Solution {
 
 public class Main {
     public static void main(String args[]) {
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         int n = 7;
         int arr[] = { 9, 4, 7, 6, 3, 1, 5 };
         System.out.println("Before sorting array: ");
@@ -65,6 +65,7 @@ public class Main {
             System.out.print(arr[i] + " ");
         }
         System.out.println();
+        scanner.close();
     }
 
 }
