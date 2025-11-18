@@ -1,5 +1,3 @@
-package step_3.arrays.easy.remove_duplicates;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println("Array after remove duplicates: " + remove_duplicates());
