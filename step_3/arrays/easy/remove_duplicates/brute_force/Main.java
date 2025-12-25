@@ -1,5 +1,3 @@
-import java.util.HashSet;
-
 class Solution {
     public int removeDuplicates(int[] nums) {
         int index = 1; // pointer for unique elements
